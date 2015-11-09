@@ -1,0 +1,23 @@
+name: NAW
+favicon: null
+layout_spectrum: 0.3638582492712885
+typography_spectrum: 0.36742278770543635
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3722053891979158
+  lightness: 0.43596224021166563
+  saturation: 0.15421208343468606
+  rhythmicContrast: 0.28805891261436045
+purpose: []
